@@ -25,7 +25,8 @@ Aplikacja korzysta z Google Maps API oraz Google Places API
 ### Zaznaczanie szpitali, szkół oraz restauracji
 
 
-![Foto1](https://user-images.githubusercontent.com/61236709/117336280-4fb00900-ae9c-11eb-80c2-5930f51c12f6.png)
+![asdadadad](https://user-images.githubusercontent.com/61236709/117339092-a23ef480-ae9f-11eb-81f9-40d51a4dbaa3.jpg)
+
 
 
 
