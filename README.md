@@ -16,16 +16,15 @@ Aplikacja korzysta z Google Maps API oraz Google Places API
 
 ![Alt Text](http://g.recordit.co/j0RiBiP3xD.gif)
 
-### Licznik czasu
+### Aktualna pozycja
 
 
 ![Alt Text](http://g.recordit.co/9QFKeIkJzu.gif)
 
-### Licznik punktów
+### Zaznaczanie szpitali, szkół oraz restauracji
 
 
 ![Alt Text](http://g.recordit.co/yN5TC0pn5P.gif)
 
 
-## Komentarz
-Emulator nie wyświetla poprawnie jednego z przycisków. Nie byliśmy wstanie nigdzie znależć wytłumaczenia dla tego.
+
